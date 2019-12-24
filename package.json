@@ -1,0 +1,19 @@
+{
+  "name": "heronode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+     "node": "12.14.0",
+	 "npm": "6.13.4"
+   },
+  "scripts": {
+  "start": "node server.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
